@@ -1,0 +1,13 @@
+.rotulo {
+    font-size: 18px;
+    color: blue;
+}
+
+.card {
+    margin-top: 12;
+    padding: '10%';
+    background-color: 'green'; 
+    width: '50px';
+    border-style: 'none'; 
+    border-radius: '5px';
+}
